@@ -9,10 +9,10 @@ El primer elemento hace referencia a la localización de node y el segundo, a la
 Esta propiedad es usada para agregar elementos a dicho array a través de la consola y así, poder extraerlos y procesarlos en nuestras aplicaciones de Node. De esta manera, será posible obtener dichos elementos y ejecutar distintas acciones con ellos.
 
 Ejemplo
-Input por consola: 
- - node aplicacion.js listar
+Input por consola:
+    node aplicacion.js listar
 Output posible:
- - listar() 
+    listar() 
 
 Las acciones ejecutables son:
  * listar
