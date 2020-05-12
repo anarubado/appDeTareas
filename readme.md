@@ -26,11 +26,11 @@ Output posible:
 ```
 
 ## Las acciones ejecutables son:
-`listar` -> Muestra listado de tareas
-`verUna` -> Agregando a continuación un índice, muestra la tarea pertinente
-`agregarUna` -> Tipeando el nombre de la tarea entre comillas, guarda la tarea creada
-`borrarUna` -> Indicando el índice, borra la tarea de la lista
-`modificarEstado` -> Referenciando un índice y escribiendo el nuevo estado de la tarea entre comillas, guarda la modificación de la tarea
+ - `listar` -> Muestra listado de tareas
+ - `verUna` -> Agregando a continuación un índice, muestra la tarea pertinente
+ - `agregarUna` -> Tipeando el nombre de la tarea entre comillas, guarda la tarea creada
+ - `borrarUna` -> Indicando el índice, borra la tarea de la lista
+ - `modificarEstado` -> Referenciando un índice y escribiendo el nuevo estado de la tarea entre comillas, guarda la modificación de la tarea
 
  ## La aplicación posee los siguientes archivos:
  - tareas.js donde se especifican las funcionalidades de la aplicación
