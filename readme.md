@@ -17,6 +17,7 @@ node aplicacion.js listar
 Output posible:
 
 --Lista de tareas--
+
 0) Terminar app de tareas | En curso
 1) Ir de compras | Pendiente
 
